@@ -413,7 +413,7 @@ De schoolbegeleider:
 **Stagecoördinatie**
 
 David van Oudheusden
-E-mail: d.vanoudheusden@novacollege.nl
+E-mail: d.oudheusden@novacollege.nl
 Beschikbaar: di–vr 9:00–17:00
 
 **Schoolbegeleider student**
@@ -439,11 +439,15 @@ E-mail: [spoedmail@school.nl]
 - Kerntaak examen 1: Realiseert software [link](https://github.com/NOVA-college-Haarlem/Proeve-van-Bekwaamheid-2026/blob/main/BF_SD_SD20_B1-K1_3.pdf) (https://github.com/NOVA-college-Haarlem/Proeve-van-Bekwaamheid-2026/blob/main/BF_SD_SD20_B1-K1_3.pdf)
 - Kerntaak examen 2: Werkt in een ontwikkelteam [link](https://github.com/NOVA-college-Haarlem/Proeve-van-Bekwaamheid-2026/blob/main/BF_SD_SD20_B1-K2_3.pdf) (https://github.com/NOVA-college-Haarlem/Proeve-van-Bekwaamheid-2026/blob/main/BF_SD_SD20_B1-K2_3.pdf)
 
-**Bijlage B: Praktische checklist start stage**
+**Bijlage B: Eisen definitieve stageverslag**
+
+- [Link naar eisenlijst stageverslag](Eisenlijst-stageverslag.md)
+
+**Bijlage C: Praktische checklist start stage**
 
 [Link naar checklist]
 
-**Bijlage C: Veelgestelde vragen**
+**Bijlage D: Veelgestelde vragen**
 
 [Link naar FAQ]
 
