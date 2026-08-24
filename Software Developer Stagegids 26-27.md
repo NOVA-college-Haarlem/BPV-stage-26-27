@@ -133,7 +133,7 @@ De stage bestaat uit twee trajecten. Het eerste deel staat in het teken van bege
 
 ### 3.1 Totale stageduur
 
-- **Minimumaantal uren:** 900 uur
+- **Minimumaantal uren:** 1300 uur
 - **Periode:** ongeveer 9 maanden
 - **Uren per week:** 32–40 uur
 
