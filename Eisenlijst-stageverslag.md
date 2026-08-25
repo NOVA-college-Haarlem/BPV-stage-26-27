@@ -23,8 +23,13 @@ Dit is je afvinklijst. Loop 'm door vóór je inlevert. Voldoet je verslag aan a
 
 - [ ] Je legt uit **wat** het bedrijf doet, op **welke afdeling** je zat en wat **jouw rol** was
 - [ ] Je hebt **minimaal 3 leerdoelen** die passen bij de opleiding (SMART: concreet en meetbaar)
+
+  > **Voorbeeld leerdoel:** *"Aan het eind van mijn stage kan ik zelfstandig een REST API-koppeling bouwen tussen de front-end en de database, zodat gegevens uit de klantenlijst live worden opgehaald. Ik toon dit aan met werkende code en een demo aan mijn begeleider in week 8."*
+  > Let op het verschil met een zwak leerdoel als *"Ik wil beter worden in programmeren"* — dat is niet meetbaar en niet af te vinken.
 - [ ] Je beschrijft je werkzaamheden concreet: *welke* projecten, *welke* technieken, *jouw* aandeel
 - [ ] Bij je grootste project(en): wat was de opdracht, wat heb je gebouwd, welke keuzes maakte je en waarom
+
+  > **Voorbeeld projectbeschrijving:** *"Project: Reserveringssysteem 'TafelVrij'. Opdracht: bouw voor restaurant De Kroon een webformulier waarmee gasten online een tafel kunnen reserveren. Mijn aandeel: de front-end in HTML/CSS en het opslaan van reserveringen in een MySQL-database. Keuze: ik koos voor MySQL in plaats van losse tekstbestanden omdat het bedrijf al met een database werkte en de data zo makkelijker te doorzoeken is."*
 - [ ] Je reflecteert eerlijk: wat ging goed, wat was lastig, wat zou je anders doen
 - [ ] In de conclusie kom je terug op **elk leerdoel**: behaald of niet, met onderbouwing
 
