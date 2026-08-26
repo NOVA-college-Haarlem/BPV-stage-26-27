@@ -341,13 +341,14 @@ De schoolbegeleider:
 - is contactpersoon voor alle stagevragen
 - is beschikbaar voor overleg bij problemen
 - verzorgt medebeoordeling van de Proeve van Bekwaamheid
-- voert 3 gesprekken, waarvan 2 online
+- voert 4 gesprekken, waarvan 2 online
 
-| Gesprek             | Vorm       | Moment                            |
-| ------------------- | ---------- | --------------------------------- |
-| Opstartgesprek      | Online     | Binnen 1 maand na de start        |
-| Tussentijds gesprek | Op locatie | Halverwege de stageperiode        |
-| Eindgesprek         | Online     | Ongeveer 2–3 weken voor het einde |
+| Gesprek             | Vorm       | Moment                          |
+| ------------------- | ---------- | ------------------------------- |
+| Opstartgesprek      | Op locatie | Binnen 6 weken na de start      |
+| Tussentijds gesprek | Online     | Ongeveer na 15 weken            |
+| Tussentijds gesprek | Online     | Ongeveer na 24 weken            |
+| Eindgesprek         | Op locatie | Ongeveer 2 weken voor het einde |
 
 ---
 
