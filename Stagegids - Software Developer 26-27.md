@@ -1,4 +1,6 @@
 
+<link rel="stylesheet" href="stagegids-style.css">
+
 # Stagegids MBO-4 Software Developer Nova College Haarlem
 
 **Informatie voor praktijkopleiders**
@@ -26,6 +28,8 @@ De BeroepsPraktijkVorming (stage) is een cruciaal onderdeel van de MBO-4 opleidi
 Deze stagegids helpt u als praktijkopleider om onze studenten optimaal te begeleiden. U vindt hier informatie over wat u van de student kunt verwachten, hoe de stage is opgebouwd, en wat uw rol is in het beoordelingsproces.
 
 Wij danken u bij voorbaat voor uw bijdrage aan de ontwikkeling van onze toekomstige IT-professionals.
+
+<div class="page-break"></div>
 
 ---
 
@@ -74,6 +78,8 @@ De competenties die de student op beginnersniveau dient te ontwikkelen zijn de v
 - Presenteren van werk en voortgang
 - Reflecteren op eigen functioneren
 - Samenwerken aan gezamenlijke doelen
+
+<div class="page-break"></div>
 
 ---
 
@@ -125,6 +131,8 @@ De competenties die de student op beginnersniveau dient te ontwikkelen zijn de v
 - Contact onderhouden met schoolbegeleider
 - Beoordelen volgens vastgestelde criteria
 
+<div class="page-break"></div>
+
 ---
 
 ## 3. Het stageverloop
@@ -157,6 +165,8 @@ Het aantal uren is leidend. Zodra het aantal vastgestelde uren is behaald, eindi
 - Demonstratie van alle competenties
 - Minimale begeleiding
 - Verantwoordelijkheid voor resultaat
+
+<div class="page-break"></div>
 
 ---
 
@@ -215,6 +225,8 @@ De student houdt per dag bij hoeveel uur hij of zij op de stage aanwezig is gewe
 #### 4.4.3 Beoordeling
 
 De student wordt twee keer beoordeeld volgens een rubric die het Nova College tijdig zal aanleveren. Deze beoordeling wordt door u gedaan. De beoordeling moet ook de progressie van de student aantonen.
+
+<div class="page-break"></div>
 
 ---
 
@@ -300,6 +312,8 @@ Verplichte onderdelen:
 - Reflectieverslag op eigen functioneren
 - Eindpresentatie aan team/stakeholders
 
+<div class="page-break"></div>
+
 ---
 
 ## 6. Beoordeling en ondersteuning
@@ -349,6 +363,8 @@ De schoolbegeleider:
 | Tussentijds gesprek | Online     | Ongeveer na 15 weken            |
 | Tussentijds gesprek | Online     | Ongeveer na 24 weken            |
 | Eindgesprek         | Op locatie | Ongeveer 2 weken voor het einde |
+
+<div class="page-break"></div>
 
 ---
 
@@ -407,6 +423,8 @@ De schoolbegeleider:
 - **Accounts:** beperkte toegang volgens beleid
 - **Beveiliging:** instructie en naleving protocollen
 
+<div class="page-break"></div>
+
 ---
 
 ## 8. Contactgegevens
@@ -430,6 +448,8 @@ Beschikbaar: di–vr 9:00–17:00
 [Naam contactpersoon]
 Telefoon: [spoednummer]
 E-mail: [spoedmail@school.nl]
+
+<div class="page-break"></div>
 
 ---
 
