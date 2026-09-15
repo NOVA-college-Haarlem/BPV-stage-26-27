@@ -1,11 +1,17 @@
 
 <link rel="stylesheet" href="stagegids-style.css">
 
-# Stagegids MBO-4 Software Developer Nova College Haarlem
+# Stagegids Software Developer<br/>Nova College Haarlem<br/>MBO-4
 
-**Informatie voor praktijkopleiders**
+## Informatie voor praktijkopleiders
 
----
+<br/>
+
+<img src="internship.jpeg" />
+
+<br/>
+
+<div class="page-break"></div>
 
 ## Inhoudsopgave
 
