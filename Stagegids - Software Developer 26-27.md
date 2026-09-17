@@ -13,7 +13,7 @@
 
 <div class="page-break"></div>
 
-## Inhoudsopgave
+## Inhoudsopgave voor dummy's
 
 1. [Onze opleiding](#1-onze-opleiding)
 2. [Informatie voor de praktijkopleider](#2-informatie-voor-de-praktijkopleider)
